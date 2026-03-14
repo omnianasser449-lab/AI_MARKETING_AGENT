@@ -1,4 +1,4 @@
-# 🤖 AI Marketing Agent
+# 🤖 AI-Powered Marketing Analysis
 ### Python + Gemini AI Portfolio Project | Google Colab
 
 ---
